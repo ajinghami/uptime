@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Anghami
+    url: https://anghami.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
