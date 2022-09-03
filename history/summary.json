@@ -37,7 +37,7 @@
   },
   {
     "name": "Anghami",
-    "url": "https://www.anghami.com/",
+    "url": "https://anghami.com",
     "icon": "https://favicons.githubusercontent.com/anghami.com",
     "slug": "anghami",
     "status": "up",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 352,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
