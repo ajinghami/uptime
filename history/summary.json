@@ -36,10 +36,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Anghami",
+    "url": "https://www.anghami.com/",
+    "icon": "https://favicons.githubusercontent.com/anghami.com",
+    "slug": "anghami",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
