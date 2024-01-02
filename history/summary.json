@@ -45,9 +45,9 @@
     "url": "https://anghami.com",
     "icon": "https://icons.duckduckgo.com/ip3/anghami.com.ico",
     "slug": "anghami",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -57,6 +57,7 @@
     "timeMonth": 1082,
     "timeYear": 1125,
     "dailyMinutesDown": {
+      "2024-01-02": 0,
       "2023-04-17": 239
     }
   },
