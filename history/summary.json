@@ -14,7 +14,7 @@
     "timeDay": 87,
     "timeWeek": 80,
     "timeMonth": 86,
-    "timeYear": 108,
+    "timeYear": 109,
     "dailyMinutesDown": {
       "2023-10-18": 31
     }
@@ -34,7 +34,7 @@
     "timeDay": 365,
     "timeWeek": 287,
     "timeMonth": 245,
-    "timeYear": 222,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2023-09-11": 18
     }
@@ -44,17 +44,17 @@
     "url": "https://anghami.com",
     "icon": "https://icons.duckduckgo.com/ip3/anghami.com.ico",
     "slug": "anghami",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "71.93%",
     "uptimeWeek": "95.99%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.87%",
-    "time": 1114,
-    "timeDay": 801,
-    "timeWeek": 911,
-    "timeMonth": 1062,
-    "timeYear": 1125,
+    "time": 1113,
+    "timeDay": 760,
+    "timeWeek": 877,
+    "timeMonth": 1044,
+    "timeYear": 1124,
     "dailyMinutesDown": {
       "2024-02-24": 404,
       "2024-01-02": 19,
