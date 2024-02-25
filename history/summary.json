@@ -46,17 +46,18 @@
     "slug": "anghami",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "71.93%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.87%",
+    "uptimeDay": "66.78%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.86%",
     "time": 1113,
     "timeDay": 760,
     "timeWeek": 877,
     "timeMonth": 1044,
     "timeYear": 1124,
     "dailyMinutesDown": {
-      "2024-02-24": 404,
+      "2024-02-25": 28,
+      "2024-02-24": 451,
       "2024-01-02": 19,
       "2023-04-17": 239
     }
