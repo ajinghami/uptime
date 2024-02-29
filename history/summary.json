@@ -34,7 +34,7 @@
     "timeDay": 248,
     "timeWeek": 289,
     "timeMonth": 247,
-    "timeYear": 221,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2023-09-11": 18
     }
@@ -47,16 +47,17 @@
     "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "14.75%",
-    "uptimeWeek": "51.26%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "99.02%",
+    "uptimeWeek": "50.85%",
+    "uptimeMonth": "88.69%",
+    "uptimeYear": "99.01%",
     "time": 1049,
     "timeDay": 750,
     "timeWeek": 769,
     "timeMonth": 825,
     "timeYear": 1030,
     "dailyMinutesDown": {
-      "2024-02-28": 1212,
+      "2024-02-29": 25,
+      "2024-02-28": 1228,
       "2024-02-27": 1043,
       "2024-02-26": 1045,
       "2024-02-25": 1161,
