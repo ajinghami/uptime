@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 77,
-    "timeWeek": 104,
+    "timeDay": 83,
+    "timeWeek": 101,
     "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -32,13 +32,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 873,
-    "timeWeek": 408,
-    "timeMonth": 258,
+    "timeDay": 46,
+    "timeWeek": 318,
+    "timeMonth": 259,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2023-09-11": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Anghami",
@@ -51,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 1179,
-    "timeDay": 1075,
-    "timeWeek": 1248,
-    "timeMonth": 1672,
-    "timeYear": 1187,
+    "time": 1180,
+    "timeDay": 1521,
+    "timeWeek": 1220,
+    "timeMonth": 1673,
+    "timeYear": 1188,
     "dailyMinutesDown": {
       "2024-05-13": 61,
       "2024-03-13": 17,
