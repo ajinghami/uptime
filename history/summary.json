@@ -11,8 +11,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 165,
-    "timeDay": 1353,
-    "timeWeek": 517,
+    "timeDay": 1354,
+    "timeWeek": 508,
     "timeMonth": 330,
     "timeYear": 183,
     "dailyMinutesDown": {
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 734,
-    "timeWeek": 245,
-    "timeMonth": 227,
-    "timeYear": 197,
+    "timeDay": 76,
+    "timeWeek": 230,
+    "timeMonth": 228,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   },
   {
@@ -47,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/anghami.com.ico",
     "slug": "anghami",
     "status": "down",
-    "uptime": "80.56%",
+    "uptime": "80.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.05%",
-    "time": 624,
-    "timeDay": 234,
-    "timeWeek": 276,
-    "timeMonth": 257,
+    "time": 623,
+    "timeDay": 250,
+    "timeWeek": 265,
+    "timeMonth": 260,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-12-21": 787,
+      "2025-12-22": 46,
+      "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -421,8 +422,7 @@
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
-      "2024-12-23": 1440,
-      "2024-12-22": 1440
+      "2024-12-23": 1440
     }
   },
   {
