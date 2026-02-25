@@ -28,18 +28,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 188,
-    "timeWeek": 150,
-    "timeMonth": 162,
-    "timeYear": 190,
-    "dailyMinutesDown": {}
+    "time": 210,
+    "timeDay": 3799,
+    "timeWeek": 1058,
+    "timeMonth": 388,
+    "timeYear": 210,
+    "dailyMinutesDown": {
+      "2026-02-25": 0
+    }
   },
   {
     "name": "Anghami",
@@ -47,7 +49,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/anghami.com.ico",
     "slug": "anghami",
     "status": "down",
-    "uptime": "77.95%",
+    "uptime": "77.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -58,7 +60,7 @@
     "timeMonth": 256,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2026-02-25": 61,
+      "2026-02-25": 856,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
