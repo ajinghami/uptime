@@ -28,10 +28,10 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
     "time": 211,
@@ -40,6 +40,7 @@
     "timeMonth": 407,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2026-03-01": 0,
       "2026-02-25": 126
     }
   },
@@ -49,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/anghami.com.ico",
     "slug": "anghami",
     "status": "down",
-    "uptime": "77.80%",
+    "uptime": "77.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -60,7 +61,7 @@
     "timeMonth": 252,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2026-03-01": 63,
+      "2026-03-01": 837,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
