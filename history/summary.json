@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 172,
-    "timeDay": 74,
-    "timeWeek": 78,
+    "timeDay": 76,
+    "timeWeek": 79,
     "timeMonth": 98,
     "timeYear": 188,
     "dailyMinutesDown": {
@@ -36,8 +36,8 @@
     "uptimeYear": "99.96%",
     "time": 203,
     "timeDay": 108,
-    "timeWeek": 149,
-    "timeMonth": 180,
+    "timeWeek": 109,
+    "timeMonth": 176,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2026-03-18": 59,
@@ -51,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/anghami.com.ico",
     "slug": "anghami",
     "status": "down",
-    "uptime": "74.88%",
+    "uptime": "74.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.05%",
     "time": 347,
-    "timeDay": 88,
-    "timeWeek": 140,
-    "timeMonth": 218,
-    "timeYear": 282,
+    "timeDay": 90,
+    "timeWeek": 128,
+    "timeMonth": 214,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2026-05-19": 113,
+      "2026-05-20": 113,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -425,8 +426,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
